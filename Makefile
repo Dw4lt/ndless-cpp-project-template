@@ -1,6 +1,8 @@
 include .env
 
-DEBUG = TRUE
+ifndef DEBUG
+override DEBUG=FALSE
+endif
 
 GCC = nspire-gcc
 AS  = nspire-as
