@@ -10,10 +10,10 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "gcc",
+            "compilerPath": "/opt/ndless-dev/Ndless/ndless-sdk/bin/nspire-gcc",
             "cStandard": "c17",
             "cppStandard": "gnu++17",
-            "intelliSenseMode": "windows-gcc-x64"
+            "intelliSenseMode": "clang-arm"
         }
     ],
     "version": 4
